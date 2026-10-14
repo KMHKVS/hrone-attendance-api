@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+# the assignment brief is marked confidential - do not publish it
+PROBLEM_STATEMENT.docx
+.env.example
+openapi.yaml
+DATA_MODEL.md
+sample_data/
+sample_seed.py
